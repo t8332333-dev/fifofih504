@@ -1,12 +1,9 @@
 {
-  "姓名":  "仓库 - fifo 前端",
-  "版本":  "1.0.0",
-  "描述":  “FIFO 静态前端”,
-   “主”:   
-   “剧本”:   {
-     “开始”:   "node index.js"
-  },
-   “依赖”:   {
-     “快递”:   "^4.19.2"
+  "name": "warehouse-fifo-frontend",
+  "version": "1.0.0",
+  "description": "FIFO Static Frontend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
   }
-   “快递” 
+}
